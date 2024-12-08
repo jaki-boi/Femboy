@@ -2,8 +2,9 @@
 The source code of every femboy
 
 
-## Update 2.3.5
+## Update 2.4.0
 
-- Increased threshold for heart attacks induced by Monster
-- Removed a bug in which the femboy would crash whenever it saw a cute boy
-- Enabled inter-UwU connectivity
+- Increased the desire to have a strong man do everything
+- Fixed a bug where femboys would sometimes be tops
+- Fixed a bug where Monster would make femboys unusually horny
+- Decreased potential brain capacity by 20%
